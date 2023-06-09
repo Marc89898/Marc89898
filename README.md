@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/6CMWn0pl3y96h2iJrY/giphy.gif" widht="300">
   <h1>HI 🤙, I'M MARC</h1>
-  <h3>Hello, my name is Marc Güell, I was born in Catalonia, Spain. I am 18 years old and I am a very ambitious boy. My two hobbies are: the motor world, and computing. I have made this website to show the world and myself what I am capable of in the field of computing, and I will not rest until I am satisfied with my results.</h3>
+  <h3>Hello, my name is Marc, I was born in Catalonia, Spain. I am 19 years old and I am a very ambitious boy. My two hobbies are: the motor world, and computing And I will win my objectives</h3>
 </div>
 <div id="badges">
   <a href="https://twitter.com/MarcG_89">
