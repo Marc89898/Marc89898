@@ -3,6 +3,7 @@
   <h1>HI 🤙, I'M MARC</h1>
   <h3>Hello, my name is Marc, I was born in Catalonia, Spain. I am 19 years old and I am a very ambitious boy. My two hobbies are: the motor world, and computing.</h3>
 </div>
+
 <div id="badges">
   <a href="https://twitter.com/MarcG_89">
     <img href="https://img.shields.io/twitter/follow/MarcG_89?color=blue&label=Twitter&logo=twitter&style=plastic"> 
