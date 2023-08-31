@@ -21,7 +21,7 @@
 ### ABOUT ME
 - 📖 Actually Studing D.A.M
 - 🧑‍💻 Lerning CiberSecurity
-- 🧠Personal Development
+- 🧠 Personal Development
 - 🏎️ Crazy about the motor world
 
 ---
