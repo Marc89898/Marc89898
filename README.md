@@ -19,10 +19,9 @@
 ---
 
 ### ABOUT ME
-- 📖 Actually Studing D.A.M
-- 🧑‍💻 Lerning CiberSecurity
+- 🧑‍💻 Lerning CyberSecurity
 - 🧠 Personal Development
-- 🏎️ Crazy about the motor world
+- 🏎️ Rinding...
 
 ---
 ### STATS
