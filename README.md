@@ -21,7 +21,7 @@
 ### ABOUT ME
 - 🧑‍💻 Lerning CyberSecurity
 - 🧠 Personal Development
-- 🏎️ Rinding...
+- 🏎️ Riding...
 
 ---
 ### STATS
